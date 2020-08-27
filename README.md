@@ -1,4 +1,6 @@
-### Hi there 👋
+SOFTWARE ENGINEER WITH A DEMONSTRATED HISTORY OF WORKING IN THE INTERNET INDUSTRY. SKILLED IN IOS, RUBY ON RAILS, REACT NATIVE AND REACT. STRONG ENGINEERING PROFESSIONAL WITH A MASTER'S DEGREE IN COMPUTER ENGINEERING.
+
+
 
 <!--
 **muratcakmak/muratcakmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
