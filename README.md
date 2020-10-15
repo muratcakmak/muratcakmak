@@ -2,9 +2,6 @@
 
 Typescript | Javascript | React Native | React | iOS
 
-
-<b><i>Let's connect! Find me on the web.</i></b>
-
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -14,6 +11,8 @@ Typescript | Javascript | React Native | React | iOS
 <hr />
 
 Cross Platform and Native Mobile development
+
+ ![Visitor Count](https://profile-counter.glitch.me/{omc345}/count.svg)
 
 <h4 align="center">Created with &nbsp;❤️</h3>
 
