@@ -1,3 +1,3 @@
-# Oguzhan Cakmak
+# OMC(Oguzhan Cakmak)
 
 I build stuff, sometimes even for fun.
