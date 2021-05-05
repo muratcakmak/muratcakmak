@@ -1,4 +1,3 @@
 # Oguzhan Cakmak
 
-Typescript | Javascript | React Native | React | iOS
-
+I build stuff, sometimes even for fun.
