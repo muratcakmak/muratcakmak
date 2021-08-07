@@ -1,4 +1,4 @@
-# OMC(Oguzhan Cakmak)
+# Oguzhan Cakmak (OMC)
 
 Run `npx omc345`.
 
